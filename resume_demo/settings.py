@@ -71,7 +71,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'resume_demo.wsgi.application'
+WSGI_APPLICATION = 'backend.wsgi.application'
 
 
 # Database
